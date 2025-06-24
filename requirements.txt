@@ -5,3 +5,4 @@ moviepy
 numpy
 python-multipart
 starlette
+pydantic
